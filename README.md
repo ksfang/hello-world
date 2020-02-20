@@ -1,4 +1,6 @@
 # hello-world
 My testing repository.
-We are testing this repository after dinner and a walk.
+
 adding a news line.
+
+在这里增加、删除、修改文件内容。
